@@ -1,6 +1,6 @@
 T12: Modules
 
-Name: Thy Nguyen
+Name: T. H. Molena
 
 Name 3 (if needed): ____________
 
